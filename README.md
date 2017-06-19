@@ -34,7 +34,7 @@ $ make go-example-download
 Example:
 
 ```
-$ go get -d github.com/ARwMq9b6/indicatif-ffi/indicatif-ffi-go
+$ go get -d github.com/ARwMq9b6/indicatif-ffi/indicatif-ffi-go-cgo
 $ git clone git://github.com/ARwMq9b6/indicatif-ffi
 $ cd indicatif-ffi
 $ make go-cgo-example-download
