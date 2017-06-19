@@ -1,0 +1,10 @@
+# rust
+target/
+target-windows/
+**/*.rs.bk
+Cargo.lock
+.idea
+
+# py
+__pycache__
+*.pyc

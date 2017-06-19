@@ -1,0 +1,10 @@
+[package]
+authors = ["ARwMq9b6 <ARwMq9b6@users.noreply.github.com>"]
+name = "indicatif-ffi-c"
+version = "0.1.0"
+
+[dependencies]
+indicatif = "0.5.0"
+
+[lib]
+crate-type = ["staticlib"]
