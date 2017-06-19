@@ -23,7 +23,7 @@ Requirement: [gccgo](https://gcc.gnu.org/onlinedocs/gccgo/)
 Example:
 
 ```
-$ go get github.com/ARwMq9b6/indicatif-ffi/indicatif-ffi-go
+$ go get -d github.com/ARwMq9b6/indicatif-ffi/indicatif-ffi-go
 $ git clone git://github.com/ARwMq9b6/indicatif-ffi
 $ cd indicatif-ffi
 $ make go-example-download
@@ -34,7 +34,7 @@ $ make go-example-download
 Example:
 
 ```
-$ go get github.com/ARwMq9b6/indicatif-ffi/indicatif-ffi-go
+$ go get -d github.com/ARwMq9b6/indicatif-ffi/indicatif-ffi-go
 $ git clone git://github.com/ARwMq9b6/indicatif-ffi
 $ cd indicatif-ffi
 $ make go-cgo-example-download
